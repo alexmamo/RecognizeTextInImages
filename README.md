@@ -29,7 +29,7 @@ This repo represents the code for following article writen on the Medium publica
 
 See it also on youtube:
 
-* Coming soon...
+* https://youtu.be/9_zR0OuRQLs
 
 **License**
 ---
